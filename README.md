@@ -1,6 +1,6 @@
 <div align="center">
 
-![Estud-IA Logo](../Estud-IA_Logo.png)
+![Estud-IA Logo](./Estud-IA_Logo.png)
 
 # **Campus Estud-IA**
 
